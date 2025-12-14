@@ -1,0 +1,5 @@
+# Application deployment configuration
+
+runConfig:
+  # Maximum concurrent instances
+  maxInstances: 1

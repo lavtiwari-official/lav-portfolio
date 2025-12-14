@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1550438496-8c6e269e7886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGNvZGV8ZW58MHx8fHwxNzY1NTQ1MDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract code"
+    },
+    {
+      "id": "profile",
+      "description": "Portrait image for profile section",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFyv6EzhlF_5w/profile-displayphoto-crop_800_800/B4DZq7IKpRIAAI-/0/1764076088553?e=1767225600&v=beta&t=SO66f2jCy0p74P3nIHBjQDC_OnkJI6ock0PIATQVuss",
+      "imageHint": "professional portrait"
+    }
+  ]
+}
